@@ -1,0 +1,9 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment (가상환경을 사용한다면)
+venv/
